@@ -1,2 +1,2 @@
 print("Main branch")
-print("Branch A")
+print("Branch B")
